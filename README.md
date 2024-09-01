@@ -1,0 +1,2 @@
+# operator-template
+Kubernetes Operatorのテンプレートコード
